@@ -1,5 +1,4 @@
 # ShoppingNaWeb
-======================
 Meu E-Commerce 
 ------
 
