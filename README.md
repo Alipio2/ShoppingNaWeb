@@ -1,5 +1,4 @@
 E-Commerce ShoppingNaWeb     <img src="logo.png" alt="LogoShoppingNaWeb" title="ShoppingNaWebLogo" align="right" height="60" />
-
 ======================
 Introdução
 ------
